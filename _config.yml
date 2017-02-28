@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Lepinski
-email: alexjlepinski@gmail.com
+title: Sample Items Website Docs
+email: info@CASS.oregonstate.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Software Developer
+  Sample Items Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: alexlepinski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  alexlepinski
-linkedin_username: alex-lepinski-722a0a129
+url: https://github.com/osu-cass/smarter-balanced-wiki" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  osu-cass
 # Build settings
 markdown: kramdown
 
