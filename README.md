@@ -1,5 +1,7 @@
 # Edition
 
+IMPORTANT: This repo is no longer under development and has been archived.
+
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
